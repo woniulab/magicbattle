@@ -9,6 +9,9 @@
 
 <img src="https://raw.githubusercontent.com/woniulab/magicbattle/master/img/demo.png"/>
 
+只需要在Eclipse中导入该项目源代码即可，运行环境为JavaSE 1.7及以上版本。
+
+
 MagicBattle项目网址： https://github.com/woniulab/magicbattle
 
 蜗牛学院：http://www.woniuxy.com   &nbsp;&nbsp;&nbsp;&nbsp;   蜗牛笔记：http://www.woniuxy.com/note
